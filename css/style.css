@@ -2,3 +2,10 @@ p {
   font-family: 'Cookie', cursive;
 font-family: 'Yellowtail', cursive;
 }
+
+header li {
+  line-height: 100px;
+  float: right; 
+  margin-right: 5px;
+}
+
